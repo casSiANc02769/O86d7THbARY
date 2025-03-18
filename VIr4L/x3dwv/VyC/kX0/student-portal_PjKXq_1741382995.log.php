@@ -34,7 +34,6 @@ $conn=new mysqli("localhost", "root","","collegemanagement");
 			<th>Name</th>
 			<th>Branch</th>
 			<th>Year </th>
-			<th>Email Id</th>
 			<th>LinkedIn Id</th>
 			<th>Student Id</th>
 			<th>Roll No</th>
