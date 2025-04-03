@@ -31,7 +31,6 @@ Welcome to the Student-ify Experience platform! Our mission is to create an incl
 •	- If you experience or witness any behavior that violates this Code of Conduct, please report it immediately to [admin email/contact form].
 •	- All reports will be reviewed and addressed promptly and confidentially.
 ---
-By participating in the Student-ify Experience platform, you agree to follow this Code of Conduct. Let’s work together to maintain a positive and welcoming environment for everyone!
 
 # Code of Conduct for Student-ify Experience
 
