@@ -49,7 +49,6 @@ $conn=new mysqli("localhost", "root","","collegemanagement");
 	<td> <?php echo "".$row['year'];?>  </td>
 	<td> <?php echo "".$row['emailid'];?>  </td>
 		<td> <?php echo "".$row['linkinid'];?>  </td>
-	<td> <?php echo "".$row['studentid'];?>  </td>
 		<td> <?php echo "".$row['dob'];?>  </td>
 		<td> <?php echo "".$row['address'];?>  </td>
 	 	<td> <?php echo "".$row['mobno'];?>  </td></tr>
