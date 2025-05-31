@@ -398,7 +398,6 @@ metadata:
 spec:
   volumes:
     - name: my-volume
-      persistentVolumeClaim:
         claimName: my-pvc #👈👈👈 Change
   containers:
     - name: my-container
